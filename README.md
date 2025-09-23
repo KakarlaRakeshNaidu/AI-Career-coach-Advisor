@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # AI-Career-coach-Advisor
+=======
+>>>>>>> 8d8824f (Initial commit)
 
 ```
 DATABASE_URL=
