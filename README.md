@@ -41,16 +41,16 @@ Auth / Session: Clerk
 
 Deployment (recommended): Vercel
 
-📁 Project Structure
-/app
- ├── (auth)/         # Login, Signup UI & pages
- ├── (dashboard)/    # User dashboard / core pages
- ├── api/            # API route handlers
- ├── components/     # Reusable UI components
- ├── hooks/          # Custom React hooks
- ├── lib/            # Configs: Prisma, AI, Inngest setup
- ├── prisma/         # Prisma schema / migrations
- └── public/         # Static assets
+📁 Project Structure<br>
+/app<br>
+ ├── (auth)/         # Login, Signup UI & pages <br>
+ ├── (dashboard)/    # User dashboard / core pages <br>
+ ├── api/            # API route handlers <br>
+ ├── components/     # Reusable UI components<br>
+ ├── hooks/          # Custom React hooks<br>
+ ├── lib/            # Configs: Prisma, AI, Inngest setup<br>
+ ├── prisma/         # Prisma schema / migrations<br>
+ └── public/         # Static assets<br>
 
 Other files:
 - next.config.mjs
