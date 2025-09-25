@@ -61,31 +61,31 @@ Other files:
 
 ⚙️ Setup & Installation
 
-1️⃣ Clone the repository
+1️⃣ Clone the repository<br>
 
-git clone https://github.com/KakarlaRakeshNaidu/AI-Career-coach-Advisor.git
+git clone https://github.com/KakarlaRakeshNaidu/AI-Career-coach-Advisor.git<br>
 cd AI-Career-coach-Advisor
 
 
 2️⃣ Install dependencies
 
-npm install
+npm install<br>
 # or yarn / pnpm
 
 
 3️⃣ Configure environment variables
 Create a .env file in the root directory. Example:
 
-DATABASE_URL=your_postgres_database_url
-NEXTAUTH_SECRET=your_nextauth_secret
-GEMINI_API_KEY=your_gemini_api_key
+DATABASE_URL=your_postgres_database_url<br>
+NEXTAUTH_SECRET=your_nextauth_secret<br>
+GEMINI_API_KEY=your_gemini_api_key<br>
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key
-CLERK_SECRET_KEY=your_clerk_secret
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_clerk_key<br>
+CLERK_SECRET_KEY=your_clerk_secret<br>
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in<br>
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up<br>
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding<br>
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding<br>
 
 
 ➡️ Replace placeholders with your actual credentials.
